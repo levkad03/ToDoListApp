@@ -1,0 +1,1 @@
+This is a ToDo app using Python and Django framework
